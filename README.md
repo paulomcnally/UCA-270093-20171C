@@ -7,7 +7,8 @@ Desarrollo de Aplicaciones Móviles II
 
 Paulo McNally
 
-+50582406543
++50582406543 Movistar
++50589130134
 
 paulomcnally@gmail.com
 
