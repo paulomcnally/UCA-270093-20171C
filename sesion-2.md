@@ -9,14 +9,13 @@
 - Mario Peralta
 - Mario Rodriguez
 
-# Equipo 2
+# Equipo 2 - 
 - Manuel Torrez
 - Alex Parrales
 - Julisa Toruno
 - Harol Morales
 - Carlos Robles
 - Andres Valiente
-- Moises Solis
 
 # Equipo 3
 - Lender Orozco
