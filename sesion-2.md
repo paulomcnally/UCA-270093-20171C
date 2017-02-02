@@ -35,6 +35,42 @@
 - Darsy Rodriguez
 - Oswaldo Chamorro
 
+0204
+
+# Equipo 1
+
+- Urielma Jiron
+- Keyling Martinez
+- Karen Mendez
+- Kattya Lopez
+- Hiuberts Duarte
+- Jimmy Castro
+
+# Equipo 2
+
+- Carlos Cruz
+- Grecia Guzman
+- Carlos Amador
+- Mauricio Camacho
+- Darvin Mendoza
+- Hansel Mendoza
+
+# Equipo 3
+
+- Bryant Jimenez
+- Moises Mena
+- Elias Zelaya
+- Guillermo Bonilla
+
+# Equipo 4
+
+- Ekaterina Gonzales
+- Giorgin Romero
+- Francela Zeledon
+- Maria Morales
+- Raquel Acuña
+- Luis Raul Cruz
+
 > Si los nombres estan mal escritos los compondre luego
 
 1 Click en el botón Fork
