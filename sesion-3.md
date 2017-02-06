@@ -26,3 +26,10 @@
 **Crear un API**
 
     $ lb
+
+Usuario loopback
+
+    {
+      "email": "paulomcnallly@gmail.com",
+      "password": "123456789"
+    }
