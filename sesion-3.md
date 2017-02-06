@@ -33,3 +33,7 @@ Usuario loopback
       "email": "paulomcnallly@gmail.com",
       "password": "123456789"
     }
+
+### video
+
+https://www.youtube.com/watch?v=uVMX_zk0LzQ
