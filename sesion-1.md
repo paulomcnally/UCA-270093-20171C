@@ -23,3 +23,23 @@
 
     $ git config --global user.name "John Doe"
     $ git config --global user.email johndoe@example.com
+
+## Enviar cambios a un repositorio
+
+Agregar cambios.
+
+    $ git add .
+
+Hacer commit de los cambios.
+
+    $ git commit -m "mensaje para el commit"
+
+Enviar cambios al repositorio en github
+
+    $ git push origin master
+
+## Todo lo que debes saber hacerca de un Fork
+
+* https://help.github.com/articles/fork-a-repo/
+* http://aprendegit.com/fork-de-repositorios-para-que-sirve/
+* http://geeksroom.com/2014/05/que-es-un-fork-y-como-trabajar-en-github/85588/
