@@ -37,3 +37,13 @@ Usuario loopback
 ### video
 
 https://www.youtube.com/watch?v=uVMX_zk0LzQ
+
+
+### ACL
+
+    {
+      "accessType": "*",
+      "principalType": "ROLE",
+      "principalId": "$everyone",
+      "permission": "DENY"
+    }
