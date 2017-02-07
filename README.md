@@ -5,6 +5,7 @@
 * [Sesión 1](sesion-1.md)
 * [Sesión 2](sesion-2.md)
 * [Sesión 3](sesion-3.md)
+* [Sesión 4](sesion-4.md)
 
 # Información de contacto
 
