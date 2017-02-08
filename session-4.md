@@ -58,4 +58,6 @@ Permitir un acceso a un método especifico siempre y cuando sea un usuario auten
       "principalId": "$owner",
       "permission": "ALLOW",
       "property": "create"
-    }
+   }
+
+   Método con lógica de negocio
