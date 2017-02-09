@@ -63,3 +63,12 @@ Permitir un acceso a un método especifico siempre y cuando sea un usuario auten
    Método con lógica de negocio
 
    Heroku Instalador | [Descargar](https://cli-assets.heroku.com/branches/stable/heroku-windows-amd64.exe)
+
+datasources.production.js
+
+    module.exports = {
+      database: {
+        url: process.env.DATABASE_URL,
+        connector: 'postgresql'
+      }
+    }
