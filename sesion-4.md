@@ -124,3 +124,9 @@ Subir a heroku
     $ git add .
     $ git commit -m "mi api"
     $ git push heroku master
+
+Heroku app
+
+    Procfile
+
+    web: npm start
