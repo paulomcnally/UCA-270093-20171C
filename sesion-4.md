@@ -112,3 +112,7 @@ Gruntfile.js
 Instalar grunt
 
     $ npm install grunt --save-dev
+
+Instalar grunt cli
+
+    $ npm install grunt-cli -g
