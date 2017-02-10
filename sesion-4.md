@@ -76,3 +76,7 @@ datasources.production.js
 Agregar connector
 
     $ npm install loopback-connector-postgresql --save
+
+Loopback auto
+
+   https://github.com/nodenica/grunt-loopback-auto
