@@ -116,3 +116,11 @@ Instalar grunt
 Instalar grunt cli
 
     $ npm install grunt-cli -g
+
+
+Subir a heroku
+
+    $ heroku git:remote -a api-...
+    $ git add .
+    $ git commit -m "mi api"
+    $ git push heroku master
