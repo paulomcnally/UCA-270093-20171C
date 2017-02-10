@@ -72,3 +72,7 @@ datasources.production.js
         connector: 'postgresql'
       }
     }
+
+Agregar connector
+
+    $ npm install loopback-connector-postgresql --save
