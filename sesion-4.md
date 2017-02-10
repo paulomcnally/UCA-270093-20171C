@@ -108,3 +108,7 @@ Gruntfile.js
       grunt.loadNpmTasks('grunt-loopback-auto');
       grunt.registerTask('default', ['loopback_auto']);
     };
+
+Instalar grunt
+
+    $ npm install grunt --save-dev
