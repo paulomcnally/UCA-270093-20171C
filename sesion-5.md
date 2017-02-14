@@ -43,7 +43,7 @@ Permitir un acceso a un método especifico siempre y cuando sea un usuario auten
     {
       "accessType": "READ",
       "principalType": "ROLE",
-      "principalId": "$owner",
+      "principalId": "$authenticated",
       "permission": "ALLOW",
       "property": "create"
    }
