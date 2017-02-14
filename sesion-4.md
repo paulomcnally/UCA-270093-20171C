@@ -83,6 +83,10 @@ Instalar grunt cli
 
     $ npm install grunt-cli -g
 
+Instalar Loopback auto
+
+    $ npm install grunt-loopback-auto --save-dev
+
 Instalar conector postgresql
 
     $ npm install loopback-connector-postgresql --save
