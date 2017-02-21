@@ -19,7 +19,7 @@ https://square.github.io/retrofit/
 **Api.java**
 
     public class Api {
-        private final static String URL = "http://api.com";
+        private final static String URL = "https://api-demo-uca.herokuapp.com/api";
 
         public static String getBase() {
             return URL + "/";
