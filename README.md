@@ -7,6 +7,10 @@
 * [Sesión 3](sesion-3.md)
 * [Sesión 4](sesion-4.md)
 * [Sesión 5](sesion-5.md)
+* [Sesión 6](sesion-6.md)
+* [Sesión 7](sesion-7.md)
+* [Sesión 8](sesion-8.md)
+* [Sesión 9](sesion-9.md)
 
 # Información de contacto
 
